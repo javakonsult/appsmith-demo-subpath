@@ -8,6 +8,7 @@ _Currently we have issues to route the appsmith on subpath._
 
 `docker-compose up -d`
 
+
 **Apps
 
 http://localhost/web-app1
